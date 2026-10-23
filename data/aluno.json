@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Beatriz de Souza Juglari Oliveira",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-001",
+    "sexo": "F"
+  },
+   {
+    "id": 2,
+    "nome": "Ana Maria Araujo Baumann",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-002",
+    "sexo": "F"
+  },
+   {
+    "id": 3,
+    "nome": "Eriannys Sinai Noriega Vasquez",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-003",
+    "sexo": "F"
+  },
+   {
+    "id": 4,
+    "nome": "Evellyn de Souza Silva Rodrigues",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-004",
+    "sexo": "F"
+  },
+   {
+    "id": 5,
+    "nome": "Fernanda Leonardo Moreira",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-005",
+    "sexo": "F"
+  },
+   {
+    "id": 6,
+    "nome": "Gabriel da Silva Rosario",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-006",
+    "sexo": "M"
+  },
+   {
+    "id": 7,
+    "nome": "Ildemaris Obeida Jimenez Solan",
+    "turma": "3DS-A",
+    "tag": "ALUNO-2026-007",
+    "sexo": "F"
+  },
+   {
+    "id": 8,
+    "nome": "Katiusca Gabriela Quintana Gomez",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-008",
+    "sexo": "F"
+  },
+   {
+    "id": 9,
+    "nome": "Leandro Daniel Montilla Ramirez ",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-009",
+    "sexo": "M"
+  },
+ {
+    "id": 10,
+    "nome": "Luara Maria Alvez Barbosa ",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-0010",
+    "sexo": "F"
+  },
+ {
+    "id": 11,
+    "nome": "Luis Keiner Roja Rincon ",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-0011",
+    "sexo": "M"
+  },
+ {
+    "id": 12,
+    "nome": "Luiz Eduardo Alves Dos Santos ",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-0012",
+    "sexo": "M"
+  },
+ {
+    "id": 13,
+    "nome": "Maria Eduarda Ferreira Da Luz ",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-0013",
+    "sexo": "F"
+  },
+ {
+    "id": 14,
+    "nome": "Mariana Favoro Bugati Ramos ",
+    "turma": "3DS-B",
+    "tag": "ALUNO-2026-0014",
+    "sexo": "F"
+  },
+ {
+    "id": 15,
+    "nome": "Matheus Henrique pereira Kuchta ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0015",
+    "sexo": "M"
+  },
+ {
+    "id": 16,
+    "nome": "Nicolly De Lima Matos ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0016",
+    "sexo": "F"
+  },
+ {
+    "id": 17,
+    "nome": "Pedro Miguel Bezerra Klososki ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0017",
+    "sexo": "M"
+  },
+ {
+    "id": 18,
+    "nome": "Stefany Martins ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0018",
+    "sexo": "F"
+  },
+ {
+    "id": 19,
+    "nome": "Vinivius Vidal Cezar ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0019",
+    "sexo": "M"
+  },
+ {
+    "id": 20,
+    "nome": "Vitor Hugo Barboza Silva ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0020",
+    "sexo": "M"
+  },
+ {
+    "id": 21,
+    "nome": "Weslley Gabriel Oliveira Daesk ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0021",
+    "sexo": "M"
+  },
+ {
+    "id": 22,
+    "nome": "Yackson Kayke Souza Do Santos ",
+    "turma": "3DS-C",
+    "tag": "ALUNO-2026-0022",
+    "sexo": "M"
+  }
+]
