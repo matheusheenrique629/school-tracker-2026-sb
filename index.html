@@ -8,7 +8,7 @@
     <link rel="icon" href="favicon_avelino.ico" type="image/x-icon">
    
     <!-- CLIENTE SDK SUPABASE -->
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>;
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 
     <style>
         body {
@@ -144,9 +144,8 @@
         /* =========================================================
            INICIALIZAÇÃO DO SUPABASE
            ========================================================= */
-        const SUPABASE_URL = 'https://eabogqniiwthxynvwosx.supabase.co;;
-        const SUPABASE_ANON_KEY = '
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVhYm9ncW5paXd0aHh5bnZ3b3N4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI3MzkxNDAsImV4cCI6MjEwODMxNTE0MH0.A2b0AkY6B57qSa6UcPPXp--WQTxFHio9PybF9C7BPQs';
+         const SUPABASE_URL = 'https://eabogqniiwthxynvwosx.supabase.co';
+        const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVhYm9ncW5paXd0aHh5bnZ3b3N4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI3MzkxNDAsImV4cCI6MjEwODMxNTE0MH0.A2b0AkY6B57qSa6UcPPXp--WQTxFHio9PybF9C7BPQs';
 
         const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
             auth: { persistSession: false }
